@@ -1,0 +1,6 @@
+[submodule "crud-app"]
+	path = crud-app
+	url = https://github.com/abhinavkale-dev/solana-crud-app.git
+[submodule "favourites_program"]
+	path = favourites_program
+	url = https://github.com/abhinavkale-dev/solana-favourites-program.git
