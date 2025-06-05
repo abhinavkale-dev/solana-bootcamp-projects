@@ -4,3 +4,6 @@
 [submodule "favourites_program"]
 	path = favourites_program
 	url = https://github.com/abhinavkale-dev/solana-favourites-program.git
+[submodule "creating-nft"]
+	path = creating-nft
+	url = https://github.com/abhinavkale-dev/creating-nft.git
