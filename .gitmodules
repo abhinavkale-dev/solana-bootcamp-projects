@@ -7,3 +7,6 @@
 [submodule "creating-nft"]
 	path = creating-nft
 	url = https://github.com/abhinavkale-dev/creating-nft.git
+[submodule "swap-program"]
+	path = swap-program
+	url = https://github.com/abhinavkale-dev/swap-program.git
